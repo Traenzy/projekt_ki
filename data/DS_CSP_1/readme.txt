@@ -1,0 +1,1 @@
+Jede der Dateien enthält eine Konfiguration für das CSP die gelöst werden soll. Diskutieren Sie die Ergebnisse separat in eigenen Kapiteln (oder Sektionen des Jupyter Notebook).

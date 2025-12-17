@@ -1,0 +1,6 @@
+Studiengang;Projektgruppen;Kommissionen
+Informatik;4;3
+Elektrotechnik;2;2
+WIW;2;1
+Maschinenbau;2;2
+Data Science;1;3
